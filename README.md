@@ -8,8 +8,7 @@
     </blockquote>
 </div>
 
-## Images
-![alt text](https://ibb.co/34BmCTB)
+![alt text](https://github.com/KacperBazan/Double_Pendulum/blob/main/img/Pendulum_1.PNG)
 
 ## Credits
 - **[LuntraUtra](https://github.com/lutrarutra/sfml_pendulumPhysics)** - His code on GitHub made creating my own double pendulum a lot less time consuming.
