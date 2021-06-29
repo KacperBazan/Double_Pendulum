@@ -7,6 +7,7 @@
         <img src=https://img.shields.io/badge/Progress-Complete-Green>
     </blockquote>
 </div>
+
 ![alt text](https://github.com/KacperBazan/Double_Pendulum/blob/main/img/Pendulum_1.PNG)
 
 ## Credits
